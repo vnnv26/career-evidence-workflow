@@ -1,0 +1,4 @@
+interface:
+  display_name: "Career Evidence Workflow"
+  short_description: "Candidate profiling, company and role intelligence, JD mapping, interview-report internalization, and resume tailoring"
+  default_prompt: "Use $career-evidence-workflow. First build or update my candidate profile from my own evidence bank, resume, and supporting files. Then analyze the company, industry, team, role, core products, users, fit, motivation, and career direction before tailoring my resume from verified evidence."
